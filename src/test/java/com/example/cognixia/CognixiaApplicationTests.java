@@ -9,5 +9,9 @@ class CognixiaApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	@Test
+	void testSomething(){
+	}
 
 }
